@@ -1,4 +1,4 @@
-## Hello👋 I'm Harikumar V 👩🏻‍💻
+## Hello👋 I'm Aiswarya C S 👩🏻‍💻
 
 I'm a passionate Frontend Developer specializing in React.js and Redux. With a strong foundation in building dynamic and responsive web applications, I enjoy turning ideas into reality through code.
 

@@ -31,7 +31,7 @@ I'm a passionate Frontend Developer specializing in Reactjs. With a strong found
 
 <a href="https://www.instagram.com/aiswarya_c.s___/" title="Aiswarya_C.S___" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="Instagram" width="30" height="30"/></a>&nbsp;&nbsp;
 &nbsp;&nbsp;
-<a href="mailto:aiswaryacs34@gmail.com.com" target="_blank" title="aiswaryacs34@gmail.com.com" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" alt="Gmail" width="30" height="30"/></a>
+<a href="mailto:aiswaryacs34@gmail.com" target="_blank" title="aiswaryacs34@gmail.com.com" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" alt="Gmail" width="30" height="30"/></a>
 
 
 # 
